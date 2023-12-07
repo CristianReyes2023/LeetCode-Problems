@@ -1,0 +1,14 @@
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\bin\Debug\net7.0\TwoSum.exe
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\bin\Debug\net7.0\TwoSum.deps.json
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\bin\Debug\net7.0\TwoSum.runtimeconfig.json
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\bin\Debug\net7.0\TwoSum.dll
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\bin\Debug\net7.0\TwoSum.pdb
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfoInputs.cache
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfo.cs
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\TwoSum.csproj.CoreCompileInputs.cache
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\TwoSum.dll
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\refint\TwoSum.dll
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\TwoSum.pdb
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\TwoSum.genruntimeconfig.cache
+E:\CAMPUSLAND\C#\LogicProblems\TwoSum\obj\Debug\net7.0\ref\TwoSum.dll
